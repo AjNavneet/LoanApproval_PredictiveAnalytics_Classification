@@ -1,4 +1,4 @@
-# Loan Approval Predictive Analytics 
+# Loan Approval Predictive Analytics using Gradient Boosting Classifier
 
 ## Project Overview
 
