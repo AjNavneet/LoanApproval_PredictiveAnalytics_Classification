@@ -1,9 +1,9 @@
-# Loan Approval Predictive Analytics using Gradient Boosting Classifier
+# Loan Approval Predictive Analytics using Gradient Boosting Classifier 
 
-## Project Overview
-
-### Description
+### Overview
 This project involves analyzing a dataset of over 100,000 loan records to determine the best way to predict whether a loan applicant should be granted a loan. 
+
+---
 
 ## Aim
 The goal is to build a machine learning model that returns a unique customer ID and a loan status label, indicating whether the loan should be approved.
